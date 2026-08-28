@@ -1,0 +1,6 @@
+artist,auth,firstName,gender,itemInSession,lastName,length,level,location,method,page,registration,sessionId,song,status,ts,userId
+,Logged In,Sara,F,0,Johnson,,paid,"Winston-Salem, NC",GET,Home,1543285680796.0,1041,,200,1543449600796,95
+The Black Keys,Logged In,Sara,F,1,Johnson,196.91057,paid,"Winston-Salem, NC",PUT,NextSong,1543285680796.0,1041,All Hands Against His Own,200,1543449800796,95
+Kings Of Leon,Logged In,Sara,F,2,Johnson,201.79546,paid,"Winston-Salem, NC",PUT,NextSong,1543285680796.0,1041,Radioactive,200,1543449998796,95
+,Logged In,Sara,F,3,Johnson,,paid,"Winston-Salem, NC",GET,Settings,1543285680796.0,1041,,200,1543450201796,95
+Coldplay,Logged In,Sara,F,4,Johnson,268.38159,paid,"Winston-Salem, NC",PUT,NextSong,1543285680796.0,1041,Fix You,200,1543450305796,95

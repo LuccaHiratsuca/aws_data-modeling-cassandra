@@ -1,0 +1,14 @@
+artist,auth,firstName,gender,itemInSession,lastName,length,level,location,method,page,registration,sessionId,song,status,ts,userId
+,Logged In,Ava,F,0,Robinson,,paid,"Lansing-East Lansing, MI",GET,Home,1537966007796.0,338,,200,1541635200796,50
+Harmonia,Logged In,Ava,F,1,Robinson,655.77751,paid,"Lansing-East Lansing, MI",PUT,NextSong,1537966007796.0,338,Sehr kosmisch,200,1541635400796,50
+The Prodigy,Logged In,Ava,F,2,Robinson,260.07465,paid,"Lansing-East Lansing, MI",PUT,NextSong,1537966007796.0,338,The Big Gundown,200,1541636058796,50
+Train,Logged In,Ava,F,3,Robinson,205.45261,paid,"Lansing-East Lansing, MI",PUT,NextSong,1537966007796.0,338,Marry Me,200,1541636320796,50
+Faithless,Logged In,Ava,F,4,Robinson,495.3073,paid,"Lansing-East Lansing, MI",PUT,NextSong,1537966007796.0,338,Music Matters (Mark Knight Dub),200,1541636527796,50
+,Logged In,Tegan,F,0,Levine,,paid,"Portland-South Portland, ME",GET,Home,1540794356796.0,602,,200,1541639800796,80
+Van Halen,Logged In,Tegan,F,1,Levine,289.38404,paid,"Portland-South Portland, ME",PUT,NextSong,1540794356796.0,602,Best Of Both Worlds (Remastered),200,1541640000796,80
+The Black Keys,Logged In,Tegan,F,2,Levine,196.91057,paid,"Portland-South Portland, ME",PUT,NextSong,1540794356796.0,602,All Hands Against His Own,200,1541640291796,80
+,Logged In,Tegan,F,3,Levine,,paid,"Portland-South Portland, ME",GET,Settings,1540794356796.0,602,,200,1541640488796,80
+Ryan Adams,Logged In,Tegan,F,4,Levine,444.24444,paid,"Portland-South Portland, ME",PUT,NextSong,1540794356796.0,602,Come Pick Me Up,200,1541640592796,80
+,Logged In,Ryan,M,0,Smith,,free,"San Jose-Sunnyvale-Santa Clara, CA",GET,Home,1537228231796.0,179,,200,1541640000796,26
+Sony Wonder,Logged In,Ryan,M,1,Smith,218.06975,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1537228231796.0,179,Blackbird,200,1541640200796,26
+Clipse,Logged In,Ryan,M,2,Smith,186.83383,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1537228231796.0,179,Intro,200,1541640420796,26

@@ -1,0 +1,9 @@
+artist,auth,firstName,gender,itemInSession,lastName,length,level,location,method,page,registration,sessionId,song,status,ts,userId
+Down To The Bone,Logged In,Sylvie,F,0,Cruz,333.76589,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1540266185796.0,182,Keep On Keepin' On,200,1541894600796,10
+Three Drives,Logged In,Sylvie,F,1,Cruz,411.63710,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1540266185796.0,182,Greece 2000,200,1541894934796,10
+Sebastien Tellier,Logged In,Sylvie,F,2,Cruz,377.73016,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1540266185796.0,182,Kilometer,200,1541895346796,10
+Lonnie Gordon,Logged In,Sylvie,F,3,Cruz,181.21098,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1540266185796.0,182,Catch You Baby (Steve Pitron & Max Sanna Radio Edit),200,1541895724796,10
+,Logged In,Jacqueline,F,0,Lynch,,paid,"Atlanta-Sandy Springs-Roswell, GA",GET,Home,1538173362796.0,818,,200,1541905000796,29
+The Black Keys,Logged In,Jacqueline,F,1,Lynch,196.91057,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1538173362796.0,818,All Hands Against His Own,200,1541905200796,29
+Muse,Logged In,Jacqueline,F,2,Lynch,300.16771,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1538173362796.0,818,Supermassive Black Hole (Twilight Soundtrack Version),200,1541905500796,29
+,Logged In,Jacqueline,F,3,Lynch,,paid,"Atlanta-Sandy Springs-Roswell, GA",GET,Home,1538173362796.0,818,,200,1541905802796,29
